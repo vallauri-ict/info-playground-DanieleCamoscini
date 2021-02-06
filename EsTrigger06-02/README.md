@@ -1,6 +1,6 @@
 # Es con Trigger
 
-_Prof. Diego Belliardo_
+Daniele Camoscini
 
 
 ###  Realizzato con gli studenti
